@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SURF Homework2</string>
+    <string name="rocket">ROCKET</string>
+    <string name="launch">LAUNCH</string>
+    <string name="spacex">SpaceX</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="launches">Launches</string>
+    <string name="rockets">Rockets</string>
+    <string name="launch_date">LAUNCH DATE</string>
+    <string name="launch_site">LAUNCH SITE</string>
+    <string name="count_down">COUNT DOWN</string>
+</resources>
